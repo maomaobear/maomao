@@ -1,5 +1,6 @@
 <?php
 
-echo '我该怎么做才鞥让你爱上我';
+echo '错过了缘分错过了你';
 
-exec('git pull origin master');
+
+exec('git push origin master');
